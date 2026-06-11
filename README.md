@@ -6,10 +6,10 @@ Two decades of product and design inside Apple, IBM, PayPal and Volkswagen, wher
 
 ## What I'm building
 
-- **[RepareCar](#)**: Revenue Intelligence for Brazilian auto repair shops. I run it, and I designed most of what you'd click.
-- **[Supertape](#)**: product design consultancy. Revenue Centric Design for SaaS hitting PMF and scale.
-- **[DevNoodles](#)**: micro-tools for technical founders.
-- **[Notinhas](#)**: nota fiscal infrastructure for Brazilian developers.
+- **[RepareCar](https://www.reparecar.com.br)**: Revenue Intelligence for Brazilian auto repair shops. I run it, and I designed most of what you'd click.
+- **[Supertape](https://thesupertape.com)**: product design consultancy. Revenue Centric Design for SaaS hitting PMF and scale.
+- **[DevNoodles](https://devnoodles.com)**: micro-tools for technical founders.
+- **Notinhas**: nota fiscal infrastructure for Brazilian developers.
 
 ## Where I get operational
 
@@ -23,4 +23,4 @@ Apple · IBM · PayPal · Volkswagen · eight years mentoring at Google for Star
 
 Based in Lisbon, building for Brazil. Road cyclist. I write about product and behavioral design more often than is strictly reasonable.
 
-[LinkedIn](#) · [Twitter/X](#) · [Supertape](#)
+[LinkedIn](https://www.linkedin.com/in/richardrx/) · [Twitter/X](https://x.com/richardrx) · [Supertape](https://thesupertape.com)
