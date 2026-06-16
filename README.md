@@ -1,6 +1,6 @@
 # Richard Renato de Jesus
 
-**Founder & CEO at RepareCar.** 25 years designing product, from Silicon Valley to the repair shop floor.
+**Founder at RepareCar.** 25 years designing product, from Silicon Valley to the repair shop floor.
 
 Two decades of product and design inside Apple, IBM, PayPal and Volkswagen, where I led the UX for VW Play (now shipping in 32+ countries). These days I build and run my own SaaS companies, and I stay close enough to the work that the title doesn't keep me out of it.
 
