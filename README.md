@@ -9,6 +9,7 @@ Two decades of product and design inside Apple, IBM, PayPal and Volkswagen, wher
 - **[RepareCar](https://www.reparecar.com.br)**: Revenue Intelligence for Brazilian auto repair shops. I run it, and I designed most of what you'd click.
 - **[Supertape](https://thesupertape.com)**: product design consultancy. Revenue Centric Design for SaaS hitting PMF and scale.
 - **[DevNoodles](https://devnoodles.com)**: micro-tools for technical founders.
+- **[Autonomous Engineering](https://github.com/richardrx/autonomous-engineering)**: An open technical plan for AI agents to write, review, and merge code. Human approval where the risk calls for it, not on every PR.
 - **Notinhas**: nota fiscal infrastructure for Brazilian developers.
 
 ## Where I get operational
